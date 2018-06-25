@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 This code was inspired by the deeplearning.ai CNN course's week 4 assignments
 
